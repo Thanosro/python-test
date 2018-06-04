@@ -17,3 +17,4 @@ print(pred)
 print(3+2)
 for i in range(1,4):
     print(i)
+    print(2*i)
