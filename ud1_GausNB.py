@@ -17,5 +17,6 @@ print(pred)
 print(3+2)
 for i in range(1,4):
     print(i)
-    print('Test 2i+1')
+    print('Test')
     print(2*i+1)
+print('End')
