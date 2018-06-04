@@ -13,3 +13,7 @@ x1 = np.array([[rd.randint(-4, 4), rd.randint(-4, 4)],[rd.randint(-4, 4), rd.ran
      [rd.randint(-4, 4), rd.randint(-4, 4)],[rd.randint(-4, 4), rd.randint(-4, 4)]])
 pred = clf.predict(x1)
 print(pred)
+
+print(3+2)
+for i in range(1,4):
+    print(i)
